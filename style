@@ -1,0 +1,83 @@
+HTML, BODY {font-family: Arial;
+
+	text-align: center;
+	}
+
+    DIV {
+       padding: 5px;
+       margin: 5px; 
+       border-radius: 20px;
+   } 
+
+
+
+   #a1 {background-color: aaaaaa;
+	width: 165px;
+	height: 635px;
+	float: left;
+	}
+
+#a2 {background-color: aaaaaa;
+width: 1040px;
+height: 165px;
+float: right;}
+ #c1 {
+background-color: bbbbbb;
+width: 1020px;
+height: 143px;
+font:500;
+font-size:1.1cm;
+text-align: center;
+
+
+ }
+ img{
+border-radius: 15px;
+ }
+
+#c2 {
+	background-color: aaaaaa;
+width: 144px;
+height: 200px;
+}
+
+
+#b1 {background-color: aaaaaa;
+	width: 1040px;
+	height: 633px;
+	float: right;}
+#b2 {background-color: aaaaaa;
+	width: 132px;
+	height: 372px;
+	float: right;}
+#a3 {background-color: bbbbbb;
+	width: 165px;
+	height: 165px;
+	float: left;}
+#control2 {background-color: cccccc;
+	width:1260px;
+	height: 865px;
+	float: right;
+border-radius: 30px;}
+	
+		
+		
+UL {list-style: none;
+	            
+	margin: -4px 1px;
+	padding: 5px 0px;}
+	
+	LI A {display: block;
+		border: 0px ;
+		width: 140px;
+		text-align: center;
+		text-decoration: none;
+		padding:8px 1px;
+		font-weight: bold;
+	border-radius: 10px;
+margin-top: 11px;}
+		
+		LI A:hover {
+			background-color: db8730;
+			color: black;
+		}
