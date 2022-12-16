@@ -2,6 +2,9 @@
 	margin: 0;
 	padding: 0;
 }
+body{
+	font-family: 'Open Sans', sans-serif;
+}
 .wrapper{
 	width: 800px;
 	min-height: 100vh;
@@ -51,6 +54,10 @@
 	width: 100%;
 
 
+}
+nav ul li a{
+	text-decoration: none;
+	color: black;
 }
 .inner-content{
 	padding: 5px;
